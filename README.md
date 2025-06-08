@@ -14,5 +14,5 @@
    4. [Вычисление метрик (CAC, ROI)](https://github.com/Nadya1004avt/SQL/blob/main/Marketing_Metrics.ipynb)
 
 Сертификат об прохождении курса
-![Alt-сертификат](https://github.com/Nadya1004avt/SQL/blob/main/1.png
-![Alt-успеваемость](https://github.com/Nadya1004avt/SQL/blob/main/2.png
+![image](https://github.com/Nadya1004avt/SQL/blob/main/1.png)
+![image](https://github.com/Nadya1004avt/SQL/blob/main/2.png)
